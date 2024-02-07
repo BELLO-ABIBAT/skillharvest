@@ -17,3 +17,4 @@ this repository is about my learning journey with skillharvest academy
 2. Ghana
 3. Canada
 
+![A dataanalyst](AB.jpeg "data)
